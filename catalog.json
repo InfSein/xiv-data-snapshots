@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T09:34:50Z",
+  "updatedAt": "2026-11-26T13:19:01Z",
   "versions": [
     {
       "patch": "7.58",
@@ -41,6 +41,720 @@
           "schemaCount": 1198,
           "bgmCount": 2188,
           "iconCount": 69379
+        }
+      }
+    },
+    {
+      "patch": "7.57",
+      "createdAt": "2026-11-26T12:53:44Z",
+      "releaseTag": "v7.57",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:53:33Z",
+        "assetName": "xivsnap-7.57-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.57/xivsnap-7.57-cn.xivsnap",
+        "size": 32142729,
+        "sha256": "221a0594ceae1f5ab22ca9b436cf0e47b725b258877603a0699a6991ab2838a6",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 8164,
+          "schemaCount": 1200,
+          "bgmCount": 2189,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:53:44Z",
+        "assetName": "xivsnap-7.57-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.57/xivsnap-7.57-global.xivsnap",
+        "size": 62550842,
+        "sha256": "883a68115a094abefe86522dc41d297ff5c23b2302b368e5d16f35aa51cbcd64",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 15423,
+          "schemaCount": 1200,
+          "bgmCount": 2188,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.56",
+      "createdAt": "2026-11-26T12:53:27Z",
+      "releaseTag": "v7.56",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:53:16Z",
+        "assetName": "xivsnap-7.56-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.56/xivsnap-7.56-cn.xivsnap",
+        "size": 32141987,
+        "sha256": "a2b806b33e1dfeffaaf0042664fbc1a907226f5f87a9fd0de33969da0cbd4b0a",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 8164,
+          "schemaCount": 1200,
+          "bgmCount": 2189,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:53:27Z",
+        "assetName": "xivsnap-7.56-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.56/xivsnap-7.56-global.xivsnap",
+        "size": 62552883,
+        "sha256": "664b76ab058e9d70e790bef5ce32792d5da7f7b1cf199f6cc105a3087c32361e",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 15423,
+          "schemaCount": 1200,
+          "bgmCount": 2188,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.55",
+      "createdAt": "2026-11-26T12:53:10Z",
+      "releaseTag": "v7.55",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:52:59Z",
+        "assetName": "xivsnap-7.55-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.55/xivsnap-7.55-cn.xivsnap",
+        "size": 31985453,
+        "sha256": "a6aa36ce46de50a024f5ab3a6524d994724a02bcf75fa1d96cc83c630b930212",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 8164,
+          "schemaCount": 1200,
+          "bgmCount": 2186,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:53:10Z",
+        "assetName": "xivsnap-7.55-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.55/xivsnap-7.55-global.xivsnap",
+        "size": 62162418,
+        "sha256": "82b8d7715199635ecd331bc3806ae2a8522ce63dcd48a4d83849df4ec0cdd208",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 15423,
+          "schemaCount": 1200,
+          "bgmCount": 2185,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.51",
+      "createdAt": "2026-11-26T12:52:52Z",
+      "releaseTag": "v7.51",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:52:42Z",
+        "assetName": "xivsnap-7.51-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.51/xivsnap-7.51-cn.xivsnap",
+        "size": 31759847,
+        "sha256": "9b5c23dad51a7c571f4f49790c843fed94eb914a8382debfa31fac13689af848",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 8164,
+          "schemaCount": 1200,
+          "bgmCount": 2165,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:52:52Z",
+        "assetName": "xivsnap-7.51-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.51/xivsnap-7.51-global.xivsnap",
+        "size": 61768345,
+        "sha256": "7521865b94382055dfbd1909059698d3e468ece78fb6df35430657e1b42d08a2",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 15423,
+          "schemaCount": 1200,
+          "bgmCount": 2164,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.5",
+      "createdAt": "2026-11-26T12:52:36Z",
+      "releaseTag": "v7.5",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:52:25Z",
+        "assetName": "xivsnap-7.5-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.5/xivsnap-7.5-cn.xivsnap",
+        "size": 31599323,
+        "sha256": "63e7a7338c0b52f5f16072e462edfa3f99654fdd131061419be1e4077079c714",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 8164,
+          "schemaCount": 1200,
+          "bgmCount": 2152,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:52:36Z",
+        "assetName": "xivsnap-7.5-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.5/xivsnap-7.5-global.xivsnap",
+        "size": 61427048,
+        "sha256": "e67d53c01b5ad3d7824480ec757522ffb0c26a236cf93865010f8e8cb94e9eca",
+        "stats": {
+          "sheetCount": 7912,
+          "exdFileCount": 15423,
+          "schemaCount": 1200,
+          "bgmCount": 2151,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.45",
+      "createdAt": "2026-11-26T12:52:19Z",
+      "releaseTag": "v7.45",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:52:08Z",
+        "assetName": "xivsnap-7.45-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.45/xivsnap-7.45-cn.xivsnap",
+        "size": 31150334,
+        "sha256": "efa915f3b9ccf6e4d27b30ac53c92fdf243d4fb323ba4f2cada3c25154f16ba1",
+        "stats": {
+          "sheetCount": 7777,
+          "exdFileCount": 8021,
+          "schemaCount": 1157,
+          "bgmCount": 2066,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:52:19Z",
+        "assetName": "xivsnap-7.45-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.45/xivsnap-7.45-global.xivsnap",
+        "size": 60522678,
+        "sha256": "03ba7015cd7ba99d169c57511b79143b8a1d48fe9d0bc60e5ef1e98ef62b12db",
+        "stats": {
+          "sheetCount": 7777,
+          "exdFileCount": 15170,
+          "schemaCount": 1157,
+          "bgmCount": 2065,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.41",
+      "createdAt": "2026-11-26T12:52:02Z",
+      "releaseTag": "v7.41",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:51:51Z",
+        "assetName": "xivsnap-7.41-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.41/xivsnap-7.41-cn.xivsnap",
+        "size": 31087355,
+        "sha256": "6db15421c9b696f98d2172ae41b5de6f1fa7803039ba9be2192368ad9a1551cb",
+        "stats": {
+          "sheetCount": 7777,
+          "exdFileCount": 8021,
+          "schemaCount": 1157,
+          "bgmCount": 2053,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:52:02Z",
+        "assetName": "xivsnap-7.41-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.41/xivsnap-7.41-global.xivsnap",
+        "size": 60403393,
+        "sha256": "d75808a6df3893fabfcdc1078fbc4bd0cc8891649998e20bfce34a61e480def9",
+        "stats": {
+          "sheetCount": 7777,
+          "exdFileCount": 15170,
+          "schemaCount": 1157,
+          "bgmCount": 2052,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.4",
+      "createdAt": "2026-11-26T12:51:45Z",
+      "releaseTag": "v7.4",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:51:35Z",
+        "assetName": "xivsnap-7.4-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.4/xivsnap-7.4-cn.xivsnap",
+        "size": 30937424,
+        "sha256": "17a0ad04c6bd02f09d7d5d9674b46e5dd3961c45ffc3ec1ed6ff761df4cfd8be",
+        "stats": {
+          "sheetCount": 7776,
+          "exdFileCount": 8020,
+          "schemaCount": 1157,
+          "bgmCount": 2052,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:51:45Z",
+        "assetName": "xivsnap-7.4-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.4/xivsnap-7.4-global.xivsnap",
+        "size": 60169442,
+        "sha256": "5669b27c1e87a003f20acc6d368ceb93d8479f92a1e9667d4905f0c596f70eac",
+        "stats": {
+          "sheetCount": 7776,
+          "exdFileCount": 15168,
+          "schemaCount": 1157,
+          "bgmCount": 2051,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.35",
+      "createdAt": "2026-11-26T12:51:29Z",
+      "releaseTag": "v7.35",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:51:18Z",
+        "assetName": "xivsnap-7.35-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.35/xivsnap-7.35-cn.xivsnap",
+        "size": 30352311,
+        "sha256": "42f0b538bd2feb7921079d878541f03ac90e51fd3a7e1bfc54648189ca722838",
+        "stats": {
+          "sheetCount": 7691,
+          "exdFileCount": 7928,
+          "schemaCount": 1140,
+          "bgmCount": 2006,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:51:29Z",
+        "assetName": "xivsnap-7.35-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.35/xivsnap-7.35-global.xivsnap",
+        "size": 59413260,
+        "sha256": "5dd744e5b19158ba6cd0d145ebfd0585fd529bdd37a8e2618051982dbe7bd28e",
+        "stats": {
+          "sheetCount": 7691,
+          "exdFileCount": 15001,
+          "schemaCount": 1140,
+          "bgmCount": 2005,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.3",
+      "createdAt": "2026-11-26T12:51:12Z",
+      "releaseTag": "v7.3",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:51:02Z",
+        "assetName": "xivsnap-7.3-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.3/xivsnap-7.3-cn.xivsnap",
+        "size": 30185946,
+        "sha256": "fcc0da8d1cbbfdd5d58a19bb2418a257a91c923a8ba5e8066c44b7a19c3c1b39",
+        "stats": {
+          "sheetCount": 7691,
+          "exdFileCount": 7928,
+          "schemaCount": 1140,
+          "bgmCount": 1995,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:51:12Z",
+        "assetName": "xivsnap-7.3-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.3/xivsnap-7.3-global.xivsnap",
+        "size": 58825696,
+        "sha256": "9792887430f4fb2276f7f77e8bc0df601d50e48b2de1357c660e6abd940838ec",
+        "stats": {
+          "sheetCount": 7691,
+          "exdFileCount": 15001,
+          "schemaCount": 1140,
+          "bgmCount": 1992,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.25",
+      "createdAt": "2026-11-26T12:50:56Z",
+      "releaseTag": "v7.25",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:50:46Z",
+        "assetName": "xivsnap-7.25-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.25/xivsnap-7.25-cn.xivsnap",
+        "size": 29660813,
+        "sha256": "8485d66cf147ba6d25ec0bf93a54653ef1a908e3ca20dd62453a8e001eb02073",
+        "stats": {
+          "sheetCount": 7549,
+          "exdFileCount": 7781,
+          "schemaCount": 1114,
+          "bgmCount": 1912,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:50:56Z",
+        "assetName": "xivsnap-7.25-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.25/xivsnap-7.25-global.xivsnap",
+        "size": 58085833,
+        "sha256": "d947474d93d877f000d114d99a9d3e3ee5773e43d8134908788494bc05469ea3",
+        "stats": {
+          "sheetCount": 7549,
+          "exdFileCount": 14724,
+          "schemaCount": 1114,
+          "bgmCount": 1911,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.2",
+      "createdAt": "2026-11-26T12:50:40Z",
+      "releaseTag": "v7.2",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:50:28Z",
+        "assetName": "xivsnap-7.2-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.2/xivsnap-7.2-cn.xivsnap",
+        "size": 29478269,
+        "sha256": "d9963ac4ae204453937ed348e5a8b9fb1d6f1a607e4be4af34488c95ed51619d",
+        "stats": {
+          "sheetCount": 7549,
+          "exdFileCount": 7781,
+          "schemaCount": 1114,
+          "bgmCount": 1905,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:50:40Z",
+        "assetName": "xivsnap-7.2-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.2/xivsnap-7.2-global.xivsnap",
+        "size": 57418603,
+        "sha256": "fc4c5a978fd4c854250cbf0561741472f0cbb3e4b24f95cd8d3574dae3df9b4e",
+        "stats": {
+          "sheetCount": 7549,
+          "exdFileCount": 14724,
+          "schemaCount": 1114,
+          "bgmCount": 1899,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.15",
+      "createdAt": "2026-11-26T12:50:23Z",
+      "releaseTag": "v7.15",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:50:12Z",
+        "assetName": "xivsnap-7.15-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.15/xivsnap-7.15-cn.xivsnap",
+        "size": 28886920,
+        "sha256": "a16e4c39f53423cb6fd43760cad4dbac217ace9035944499b9f02bbdeae2ac6b",
+        "stats": {
+          "sheetCount": 7406,
+          "exdFileCount": 7628,
+          "schemaCount": 1068,
+          "bgmCount": 1851,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:50:23Z",
+        "assetName": "xivsnap-7.15-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.15/xivsnap-7.15-global.xivsnap",
+        "size": 56767099,
+        "sha256": "d1b80632652e6947f10792fcaa24dc15d82ad9a05a2218d8f71463131230fd39",
+        "stats": {
+          "sheetCount": 7406,
+          "exdFileCount": 14452,
+          "schemaCount": 1068,
+          "bgmCount": 1849,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.11",
+      "createdAt": "2026-11-26T12:50:06Z",
+      "releaseTag": "v7.11",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:49:55Z",
+        "assetName": "xivsnap-7.11-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.11/xivsnap-7.11-cn.xivsnap",
+        "size": 28798946,
+        "sha256": "9db5553125d953d8b81e55d92b02726e4bf1ba6eaa74cd7b26cdf477f8ade426",
+        "stats": {
+          "sheetCount": 7406,
+          "exdFileCount": 7628,
+          "schemaCount": 1068,
+          "bgmCount": 1850,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:50:06Z",
+        "assetName": "xivsnap-7.11-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.11/xivsnap-7.11-global.xivsnap",
+        "size": 56640199,
+        "sha256": "548c5c08c404ce0e848fdc7da3201ada9fd3c07189d267a10723a8b0f6fa0f95",
+        "stats": {
+          "sheetCount": 7406,
+          "exdFileCount": 14452,
+          "schemaCount": 1068,
+          "bgmCount": 1849,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.1",
+      "createdAt": "2026-11-26T12:49:50Z",
+      "releaseTag": "v7.1",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:49:39Z",
+        "assetName": "xivsnap-7.1-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.1/xivsnap-7.1-cn.xivsnap",
+        "size": 28794540,
+        "sha256": "e68d3f197212681ab11860102dc1034d1c8b67c34c9ccfe0007581db105b0625",
+        "stats": {
+          "sheetCount": 7406,
+          "exdFileCount": 7628,
+          "schemaCount": 1068,
+          "bgmCount": 1848,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:49:50Z",
+        "assetName": "xivsnap-7.1-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.1/xivsnap-7.1-global.xivsnap",
+        "size": 56628433,
+        "sha256": "64fc1a00983e35c6c78fb24aa3d42cbe2441d26b928fe48419262a0e714413b1",
+        "stats": {
+          "sheetCount": 7406,
+          "exdFileCount": 14452,
+          "schemaCount": 1068,
+          "bgmCount": 1846,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.05",
+      "createdAt": "2026-11-26T12:49:34Z",
+      "releaseTag": "v7.05",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:49:23Z",
+        "assetName": "xivsnap-7.05-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.05/xivsnap-7.05-cn.xivsnap",
+        "size": 28395460,
+        "sha256": "fad555d30cdc2d4947e463875b3f8877d0e2937d0ac9fff3019d564a3764c54f",
+        "stats": {
+          "sheetCount": 7292,
+          "exdFileCount": 7638,
+          "schemaCount": 1032,
+          "bgmCount": 1781,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:49:34Z",
+        "assetName": "xivsnap-7.05-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.05/xivsnap-7.05-global.xivsnap",
+        "size": 55886847,
+        "sha256": "6378f54c52328930da558eaa4c73c64771b21bdeeac9e10a35cb72f92d85bf56",
+        "stats": {
+          "sheetCount": 7292,
+          "exdFileCount": 14504,
+          "schemaCount": 1032,
+          "bgmCount": 1781,
+          "iconCount": 0
+        }
+      }
+    },
+    {
+      "patch": "7.0",
+      "createdAt": "2026-11-26T12:49:17Z",
+      "releaseTag": "v7.0",
+      "cn": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "chs"
+        ],
+        "createdAt": "2026-11-26T12:49:07Z",
+        "assetName": "xivsnap-7.0-cn.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.0/xivsnap-7.0-cn.xivsnap",
+        "size": 28340971,
+        "sha256": "1c807fc40bee48572a73df683b685a82d46e418e41b03bdb3500ce5006531ed1",
+        "stats": {
+          "sheetCount": 7292,
+          "exdFileCount": 7638,
+          "schemaCount": 1032,
+          "bgmCount": 1775,
+          "iconCount": 0
+        }
+      },
+      "global": {
+        "gameVersion": "0a-only",
+        "languages": [
+          "ja",
+          "en"
+        ],
+        "createdAt": "2026-11-26T12:49:17Z",
+        "assetName": "xivsnap-7.0-global.xivsnap",
+        "downloadUrl": "https://github.com/InfSein/xiv-data-snapshots/releases/download/v7.0/xivsnap-7.0-global.xivsnap",
+        "size": 55747097,
+        "sha256": "066f544ef086f085fd303e635df505cf446b4ec0692463d197884d20200fb1ab",
+        "stats": {
+          "sheetCount": 7292,
+          "exdFileCount": 14504,
+          "schemaCount": 1032,
+          "bgmCount": 1775,
+          "iconCount": 0
         }
       }
     }
